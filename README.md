@@ -1,4 +1,4 @@
-AI Inzicht-naar-Impact Model is een gestructureerde promptmethodiek die AI transformeert van een antwoordmachine naar een effectieve denkpartner. Het model begeleidt gebruikers via een vaste denkflow van strategie → inzicht → besluitvorming → executie → impact, zodat inzichten niet blijven hangen maar leiden tot concrete acties en resultaten.
+Het AI Inzicht-naar-Impact Model is een gestructureerde promptmethodiek die AI transformeert van een antwoordmachine naar een effectieve denkpartner. Het model begeleidt gebruikers via een vaste denkflow van strategie → inzicht → besluitvorming → executie → impact, zodat inzichten niet blijven hangen maar leiden tot concrete acties en resultaten.
 
 Door gerichte prompts per denkfase te gebruiken, helpt het model om:
 
