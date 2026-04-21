@@ -2,11 +2,11 @@ AI Inzicht-naar-Impact Model is een gestructureerde promptmethodiek die AI trans
 
 Door gerichte prompts per denkfase te gebruiken, helpt het model om:
 
-sneller tot de kern van complexe vraagstukken te komen
-betere en bewustere keuzes te maken
-direct van analyse naar uitvoering te gaan
-stakeholders effectiever mee te nemen
-creativiteit op het juiste moment in te zetten
+- sneller tot de kern van complexe vraagstukken te komen
+- betere en bewustere keuzes te maken
+- direct van analyse naar uitvoering te gaan
+- stakeholders effectiever mee te nemen
+- creativiteit op het juiste moment in te zetten
 
 Het model is flexibel toepasbaar: stap-voor-stap voor maximale diepgang of selectief per fase voor gerichte ondersteuning.
 
